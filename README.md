@@ -1,6 +1,7 @@
 
+![LinkedIn-Banner-upendra](https://user-images.githubusercontent.com/75515703/219235841-08b68475-7cc1-4bde-a213-48f3b2a5aaff.png)
 
-![upendra-git](https://user-images.githubusercontent.com/75515703/216261669-a68a6344-f9b8-445a-b302-f77fdf15b4fb.png)
+<!-- ![upendra-git](https://user-images.githubusercontent.com/75515703/216261669-a68a6344-f9b8-445a-b302-f77fdf15b4fb.png) -->
 
 ### 👋   Hi
 I'm Upendra Kumar, a passionate self-taught full-stack web developer from India. My passion for software lies in dreaming up ideas and making them come true with coding. I am also an open-source enthusiast and love to make plugins for them. 
