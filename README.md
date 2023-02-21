@@ -6,6 +6,8 @@
 ### 👋   Hi
 I'm Upendra Kumar, a passionate self-taught full-stack web developer from India. My passion for software lies in dreaming up ideas and making them come true with coding. I am also an open-source enthusiast and love to make plugins for them. 
 
+BTech Graduate, having strong knowledge in JavaScript, Python, ReactJs, NextJS, Django, Django REST Framework, GraphQL, DSA, OOPs Concepts, Manual Testing, Tailwind CSS, StorybookJs, Bootstrap, HTML, and CSS.
+
 Graduated September 2022, B. Tech. (EEE),AKU.
 
 ### Tools and Frameworks with i work
@@ -37,12 +39,19 @@ Graduated September 2022, B. Tech. (EEE),AKU.
 
 - ### [Editorjs mathlive plugin](https://github.com/uk2459644/editorjs-mathlive)
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
+ Block Tool for Editor.js, enables writing mathematical expressions in EditorJs Markdown editor.
 ![editorjs-mathlive](https://user-images.githubusercontent.com/75515703/215652012-8c6bd2aa-babf-4f3f-8ec8-92b2610d7af3.gif)
 - ### [Open Academy](https://github.com/uk2459644/open-academy)
+A project showing the usage and customization of EditorJs to make an educational app for web, android, and desktop.
 ![open-academy](https://user-images.githubusercontent.com/75515703/216514593-2d24ee3d-c085-4c1f-9a79-467b9e2a2262.gif)
 
 - ### [Mock test](https://github.com/uk2459644/mocktest.com)
+A project showing the mock test utilities. Techs Used NextJS, Django REST API, Tailwind CSS, ChartJS.
 ![mocktest4](https://user-images.githubusercontent.com/75515703/215251522-7feae83c-a9e3-4480-9bcf-ff4bf148d572.gif)
+
+- ### [Editorjs Chart](https://github.com/uk2459644/editorjs-chartuk)
+Chart Block Tool for Editor.js, enables showing charts in EditorJs Markdown editor.
+![editorjs-chartuk](https://user-images.githubusercontent.com/75515703/220291240-838fbfac-a219-40c1-9174-942f8a31bc6c.gif)
 
 
 ## 🌱 I’m currently learning
