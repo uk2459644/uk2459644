@@ -6,7 +6,7 @@
 ### 👋   Hi
 I'm Upendra Kumar, a passionate self-taught full-stack web developer from India. My passion for software lies in dreaming up ideas and making them come true with coding. I am also an open-source enthusiast and love to make plugins for them. 
 
-BTech Graduate, having strong knowledge in JavaScript, Python, ReactJs, NextJS, Django, Django REST Framework, GraphQL, DSA, OOPs Concepts, Manual Testing, Tailwind CSS, StorybookJs, Bootstrap, HTML, and CSS.
+BTech Graduate, having strong knowledge in JavaScript, Python, ReactJs, NextJS, Django, Django REST Framework, GraphQL, DSA, OOPs Concepts, Tailwind CSS, StorybookJs, Bootstrap, HTML, and CSS.
 
 Graduated September 2022, B. Tech. (EEE),AKU.
 
@@ -63,7 +63,7 @@ Chart Block Tool for Editor.js, enables showing charts in EditorJs Markdown edit
 
 ## 🔭 I’m currently looking for a job as a Fresher.
 ## 📫 How to reach me 
-- Email - upendra.patna8@gmail.com
+- Email - uk2459644@gmail.com
 - Phone - (+91) 8789221957
 
 
