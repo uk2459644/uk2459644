@@ -53,7 +53,7 @@ A SaaS-based multi-clinic platform for managing doctors, patients, and staff.
 
 ---
 
-### 📱 OnSiteByShandilyam (React Native App)
+### 📱 OnSite By Shandilyam (React Native App)
 Mobile app for managing onsite operations of Shandilyam company.  
 - Role-based login (Admin, Staff)  
 - Location-based attendance (GPS integration)  
