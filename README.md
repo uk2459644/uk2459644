@@ -3,12 +3,13 @@
 
 <!-- ![upendra-git](https://user-images.githubusercontent.com/75515703/216261669-a68a6344-f9b8-445a-b302-f77fdf15b4fb.png) -->
 
-### 👋   Hi
-I'm Upendra Kumar, a passionate self-taught full-stack web developer from India. My passion for software lies in dreaming up ideas and making them come true with coding. I am also an open-source enthusiast and love to make plugins for them. 
+## 👋 Hi, I'm Upendra Kumar  
 
-BTech Graduate, having strong knowledge in JavaScript, Python, ReactJs, NextJS, Django, Django REST Framework, GraphQL, DSA, OOPs Concepts, Tailwind CSS, StorybookJs, Bootstrap, HTML, and CSS.
+🚀 Full-Stack Developer | ReactJS | React Native | NodeJS | CodeIgniter | Django (Python) | MySQL  
 
-Graduated September 2022, B. Tech. (EEE),AKU.
+💡 Passionate about building scalable **SaaS platforms** and mobile apps with modern frontend and backend stacks.  
+Currently working on a **multi-clinic SaaS Clinic Management System** and recently built a **React Native mobile app** for field workforce management.  
+
 
 ### Tools and Frameworks with i work
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +36,7 @@ Graduated September 2022, B. Tech. (EEE),AKU.
 
 ## ⚡⚡ 2 Star rating (Python)  on [Codechef](https://www.codechef.com/users/uk2459644)
 
-## Recent projects
+## Personal projects
 
 - ### [Editorjs mathlive plugin](https://github.com/uk2459644/editorjs-mathlive)
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
