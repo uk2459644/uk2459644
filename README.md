@@ -13,6 +13,11 @@ Currently working on a **multi-clinic SaaS Clinic Management System** and recent
 
 ### Tools and Frameworks with i work
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Next Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Electron js](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -21,12 +26,11 @@ Currently working on a **multi-clinic SaaS Clinic Management System** and recent
 ![Material Ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chart Js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Appolo GraphQl](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 ## Languages
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,19 +40,35 @@ Currently working on a **multi-clinic SaaS Clinic Management System** and recent
 
 ## ⚡⚡ 2 Star rating (Python)  on [Codechef](https://www.codechef.com/users/uk2459644)
 
-## Personal projects
+---
+
+## 📌 Featured Projects
+
+### 🏥 Clinic Management System *(Company Project – Private)*
+A SaaS-based multi-clinic platform for managing doctors, patients, and staff.  
+- Modular access control (Appointments, Prescriptions, Diagnostics, etc.)  
+- Doctors/Patients can be associated with multiple clinics  
+- Complete **Admin Panel**, **Doctor Panel UI**, **Patient Panel APIs**  
+> 🔒 Code is private (company project).
+
+---
+
+### 📱 OnSiteByShandilyam (React Native App)
+Mobile app for managing onsite operations of Shandilyam company.  
+- Role-based login (Admin, Staff)  
+- Location-based attendance (GPS integration)  
+- Task assignment & daily work logs  
+- Push notifications and offline support
+  
+> 🔒 Code is private (company project).
+
+
+## Personal projects (Open source plugin)
 
 - ### [Editorjs mathlive plugin](https://github.com/uk2459644/editorjs-mathlive)
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
  Block Tool for Editor.js, enables writing mathematical expressions in EditorJs Markdown editor.
 ![editorjs-mathlive](https://user-images.githubusercontent.com/75515703/215652012-8c6bd2aa-babf-4f3f-8ec8-92b2610d7af3.gif)
-- ### [Open Academy](https://github.com/uk2459644/open-academy)
-A project showing the usage and customization of EditorJs to make an educational app for web, android, and desktop.
-![open-academy](https://user-images.githubusercontent.com/75515703/216514593-2d24ee3d-c085-4c1f-9a79-467b9e2a2262.gif)
-
-- ### [Mock test](https://github.com/uk2459644/mocktest.com)
-A project showing the mock test utilities. Techs Used NextJS, Django REST API, Tailwind CSS, ChartJS.
-![mocktest4](https://user-images.githubusercontent.com/75515703/215251522-7feae83c-a9e3-4480-9bcf-ff4bf148d572.gif)
 
 - ### [Editorjs Chart](https://github.com/uk2459644/editorjs-chartuk)
 Chart Block Tool for Editor.js, enables showing charts in EditorJs Markdown editor.
@@ -62,8 +82,10 @@ Chart Block Tool for Editor.js, enables showing charts in EditorJs Markdown edit
 - Hindi - Native
 
 
-## 🔭 I’m currently looking for a job as a Fresher.
-## 📫 How to reach me 
+## 🔭 I’m currently looking for a job.
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/upendra-frontend-react-js-django-python-backend-developer/)  
+- [Naukri](#) 
 - Email - uk2459644@gmail.com
 - Phone - (+91) 8789221957
 
