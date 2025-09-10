@@ -82,13 +82,6 @@ Mobile app for workforce management.
 - **LeetCode:** 600+ problems solved, 3 achievement badges  
 - **CodeChef:** 2★ (Python) [Profile](https://www.codechef.com/users/uk2459644)  
 
----
-
-## 🌱 Currently Learning  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-
----
-
 ## 🌐 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/upendra-frontend-react-js-django-python-backend-developer/)  
 - [Naukri](#)  
