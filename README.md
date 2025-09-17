@@ -53,14 +53,19 @@
 A SaaS-based multi-clinic platform for managing doctors, patients, and staff.  
 - Modular access control (Appointments, Prescriptions, Diagnostics, etc.)  
 - Multi-clinic role-based features  
-> 🔒 Code private (company project)  
+> 🔒 Code private (company project)
+ 
+![clinic-management-system](https://github.com/user-attachments/assets/d7901993-941a-4f83-bf38-a917ce881678)
 
 ### 📱 OnSite By Shandilyam *(React Native App)*  
 Mobile app for workforce management.  
 - GPS-based attendance  
 - Leave & approval workflows  
 - Task assignment & daily logs  
-> 🔒 Code private (company project)  
+> 🔒 Code private (company project)
+
+👉 [Onsite By Shandilyam on Google Play Store](https://play.google.com/store/apps/details?id=com.OnSiteByShandilyam)
+
 
 ### 🗂️ Asset Management System *(ReactJS, CodeIgniter)*  
 - Full CRUD for enterprise asset lifecycle  
@@ -79,7 +84,7 @@ Mobile app for workforce management.
 ---
 
 ## 📊 Competitive Programming  
-- **LeetCode:** 600+ problems solved, 3 achievement badges  
+- **LeetCode:** 600+ problems solved, 7 achievement badges  [Profile](https://leetcode.com/u/uk2459644/)
 - **CodeChef:** 2★ (Python) [Profile](https://www.codechef.com/users/uk2459644)  
 
 ## 🌐 Connect With Me  
