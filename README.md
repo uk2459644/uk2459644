@@ -83,6 +83,13 @@ Mobile app for workforce management.
 
 ---
 
+## Recent Assessments 
+- [React Native App](https://github.com/uk2459644/myprolist-react-native-app) – Small product-listing app demonstrating paging, product details and favorites with basic offline support using TanStack Query + AsyncStorage. 
+- [AI tutor](https://github.com/uk2459644/assessment-ai-tutor) – An interactive AI-powered tutor built with React + TailwindCSS. Students can ask questions in natural language, and the AI tutor answers.
+- [Chat Room - React Native App](https://github.com/uk2459644/vocso-assessment) – A simple React Native chatroom app with Firebase integration. Users can join with a username, send messages in real-time, and view all messages in chronological order.
+
+---
+
 ## 📊 Competitive Programming  
 - **LeetCode:** 600+ problems solved, 7 achievement badges  [Profile](https://leetcode.com/u/uk2459644/)
 - **CodeChef:** 2★ (Python) [Profile](https://www.codechef.com/users/uk2459644)  
