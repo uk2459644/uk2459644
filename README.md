@@ -2,8 +2,8 @@
 
 ## 👋 Hi, I'm Upendra Kumar  
 
-🚀 **Fullstack Developer | ReactJS | React Native | Node.js | Django**  
-⚡ Immediate Joiner | Experienced in SaaS & Enterprise Apps | Open Source Contributor  
+🚀 **ReactJS | React Native | Node.js**  
+⚡ React Native Mobile Application Developer | Employee Management, Service Booking & E-commerce Apps | Payments, Firebase, Socket.io | DSA | Open Source Contributor  
 
 ---
 
@@ -35,7 +35,17 @@
 
 ## 💼 Professional Experience  
 
-**React & React Native Developer – Logic Nexus Solutions, Delhi** *(Mar 2024 – Present)*  
+**React Native Developer – Code Query, Bihar** *(Nov 2025 - Present)*  
+- Working on 3–4 production-grade mobile applications for service booking and business
+platforms.  
+- Developing complex features including authentication, booking flows, payments,
+notifications, and real-time communication. 
+- Integrating Firebase services, REST APIs, and Socket.io for scalable mobile solutions.
+- Implementing Redux Toolkit for centralized state management and offline data
+persistence.
+- Collaborating with backend and product teams to deliver high-quality mobile applications.
+
+**React & React Native Developer – Logic Nexus Solutions, Delhi** *(Mar 2024 – Nov 2025)*  
 - Building SaaS-based doctor-patient management system with prescriptions, vitals, and appointment scheduling.  
 - Developed **OnSiteByShandilyam** (React Native app) for employee/workforce management (attendance, approvals, tasks).  
 - Implemented modular access control and multi-clinic deployments.  
