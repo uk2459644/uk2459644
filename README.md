@@ -1,113 +1,236 @@
-![LinkedIn-Banner-upendra](https://user-images.githubusercontent.com/75515703/219235841-08b68475-7cc1-4bde-a213-48f3b2a5aaff.png)
+# Hi, I'm Upendra Kumar 👋
 
-## 👋 Hi, I'm Upendra Kumar  
+### Product Engineer | React Native Developer | JavaScript | Native Android | Kotlin | AI/ML
 
-🚀 **ReactJS | React Native | Node.js**  
-⚡ React Native Mobile Application Developer | Employee Management, Service Booking & E-commerce Apps | Payments, Firebase, Socket.io | DSA | Open Source Contributor  
+I'm a **Product Engineer and React Native Developer** focused on building production-grade mobile applications, particularly for **healthcare and field-operations workflows**.
 
----
-
-## 🛠️ Tech Stack  
-
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & APIs**  
-![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases & Cloud**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Others**  
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Material Ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chart Js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+I enjoy working at the intersection of **mobile engineering, native Android, backend APIs, performance optimization, and AI/ML**.
 
 ---
 
-## 💼 Professional Experience  
+## 🚀 What I Work With
 
-**React Native Developer – Code Query, Bihar** *(Nov 2025 - Present)*  
-- Working on 3–4 production-grade mobile applications for service booking and business
-platforms.  
-- Developing complex features including authentication, booking flows, payments,
-notifications, and real-time communication. 
-- Integrating Firebase services, REST APIs, and Socket.io for scalable mobile solutions.
-- Implementing Redux Toolkit for centralized state management and offline data
-persistence.
-- Collaborating with backend and product teams to deliver high-quality mobile applications.
+### Mobile Development
 
-**React & React Native Developer – Logic Nexus Solutions, Delhi** *(Mar 2024 – Nov 2025)*  
-- Building SaaS-based doctor-patient management system with prescriptions, vitals, and appointment scheduling.  
-- Developed **OnSiteByShandilyam** (React Native app) for employee/workforce management (attendance, approvals, tasks).  
-- Implemented modular access control and multi-clinic deployments.  
+* React Native
+* JavaScript
+* React
+* React Navigation
+* Redux Toolkit
+* TanStack Query
+* AsyncStorage
+* Native Android
+* Kotlin
+* Android SDK
 
-**React & React Native Developer – Compile Software, Delhi** *(Mar 2023 – Mar 2024)*  
-- Built **Asset Management System** (ReactJS, CodeIgniter) with enterprise asset lifecycle & role-based access.  
-- Developed **Video Upload & Management Platform** for YouTube, Vimeo, and OneDrive with multi-account support.  
-- Delivered 6+ medium and 3 major projects across healthcare and enterprise domains.  
+### Backend & APIs
 
----
+* REST APIs
+* Axios
+* Laravel
+* Node.js
+* Firebase
+* Firebase Realtime Database
+* Firebase Cloud Messaging
+* AWS
 
-## 📌 Featured Projects  
+### Native & Platform Engineering
 
-### 🏥 Clinic Management System *(Company Project – Private)*  
-A SaaS-based multi-clinic platform for managing doctors, patients, and staff.  
-- Modular access control (Appointments, Prescriptions, Diagnostics, etc.)  
-- Multi-clinic role-based features  
-> 🔒 Code private (company project)
- 
-![clinic-management-system](https://github.com/user-attachments/assets/d7901993-941a-4f83-bf38-a917ce881678)
+* Android Foreground Services
+* Background Location
+* AlarmManager
+* BroadcastReceiver
+* Headless JS
+* Native Modules
+* Hermes
+* Gradle
+* CMake
+* Android build & release workflows
 
-### 📱 OnSite By Shandilyam *(React Native App)*  
-Mobile app for workforce management.  
-- GPS-based attendance  
-- Leave & approval workflows  
-- Task assignment & daily logs  
-> 🔒 Code private (company project)
+### Mobile Integrations
 
-👉 [Onsite By Shandilyam on Google Play Store](https://play.google.com/store/apps/details?id=com.OnSiteByShandilyam)
-
-
-### 🗂️ Asset Management System *(ReactJS, CodeIgniter)*  
-- Full CRUD for enterprise asset lifecycle  
-- Role-based access & reporting  
-
-### 🎥 Video Upload & Management Platform  
-- Manage videos across **YouTube, Vimeo, OneDrive** from one dashboard  
-- Multi-channel, multi-account upload with one click  
+* Vision Camera
+* Camera Kit
+* Image Picker
+* Notifee
+* FCM
+* AWS Location
+* QR / Barcode scanning
 
 ---
 
-## 🔓 Open Source Contributions  
-- [Editorjs-mathlive](https://github.com/uk2459644/editorjs-mathlive) – Math editor plugin for Editor.js (⭐5 stars, 3 forks)  
-- [Editorjs-chart](https://github.com/uk2459644/editorjs-chartuk) – Chart plugin for Editor.js (⭐6 stars, 2 forks)  
+## 🏥 Current Engineering Focus
+
+I currently work on healthcare and field-operations mobile applications where reliability, background processing, location accuracy, and API performance are important.
+
+Some areas I've worked on:
+
+* 📱 Production React Native applications
+* 🔄 React Native version upgrades and modernization
+* 🧠 TanStack Query migration and server-state management
+* 📍 Background GPS tracking using Kotlin and Android services
+* 🔔 Push notifications and deep linking
+* 📷 Camera, document upload and QR/barcode workflows
+* ⚡ Mobile performance and API optimization
+* 🔐 Google Play policy and permission compliance
+* 🛠️ Android build, Gradle, Hermes and native dependency troubleshooting
 
 ---
 
-## Recent Assessments 
-- [React Native App](https://github.com/uk2459644/myprolist-react-native-app) – Small product-listing app demonstrating paging, product details and favorites with basic offline support using TanStack Query + AsyncStorage. 
-- [AI tutor](https://github.com/uk2459644/assessment-ai-tutor) – An interactive AI-powered tutor built with React + TailwindCSS. Students can ask questions in natural language, and the AI tutor answers.
-- [Chat Room - React Native App](https://github.com/uk2459644/vocso-assessment) – A simple React Native chatroom app with Firebase integration. Users can join with a username, send messages in real-time, and view all messages in chronological order.
+## 📊 Engineering Highlights
 
+A few examples from my current production work:
+
+* **55+ REST API endpoints** integrated across multiple application domains
+* **20+ screens** organized across multiple navigation stacks
+* **40+ reusable React Native components**
+* **15 Redux state slices/reducers**
+* Implemented **TanStack Query caching and persistence**
+* Built Android **Kotlin Native Modules** for background location
+* Implemented **Foreground Services, AlarmManager and BroadcastReceivers**
+* Reduced AWS location API traffic by approximately **83%** through throttling and optimized synchronization
+* Implemented GPS filtering based on **accuracy, movement and speed**
+* Optimized AsyncStorage access using batched reads
+* Worked with multiple development, staging and production environments
+
+---
+
+## 🧠 Currently Learning
+
+I'm actively strengthening my computer science and AI foundations.
+
+### Computer Science
+
+* Data Structures & Algorithms
+* Operating Systems
+* DBMS
+* Computer Networks
+* Computer Architecture
+* Discrete Mathematics
+* Theory of Computation
+
+### AI / Machine Learning
+
+* Machine Learning fundamentals
+* Linear & Logistic Regression
+* Gradient Descent
+* Backpropagation
+* Neural Networks
+* Classification
+* Precision / Recall
+* ROC-AUC / PR-AUC
+* Model evaluation
+* Deep Learning fundamentals
+
+My long-term goal is to combine **strong software engineering + computer science fundamentals + AI/ML**.
+
+---
+
+## 🔬 Open Source
+
+I've contributed to the **Editor.js ecosystem**, including work around:
+
+* MathLive integration
+* Chart plugins
+
+I enjoy building tools and components that make developer workflows simpler.
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Become a stronger senior-level mobile/software engineer
+* 🧠 Build deeper Computer Science fundamentals
+* 🤖 Transition toward AI/ML engineering
+* 📱 Continue exploring advanced React Native and native Android
+* 🔧 Build and contribute to useful open-source projects
+* 📚 Prepare for deeper CS education and advanced technical roles
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+JavaScript        React Native       React
+Kotlin            Android            Redux Toolkit
+TanStack Query    REST APIs          Axios
+Firebase          AWS                Node.js
+Laravel           Git                Gradle
+Hermes            CMake              Android SDK
+```
+
+---
+
+## 📌 Featured Projects
+
+> I'm gradually adding and improving my public projects to reflect the areas I work with professionally.
+
+### 📱 React Native
+
+Production-oriented examples covering:
+
+* API integration
+* Server-state management
+* Navigation
+* Authentication
+* Offline/persistent state
+* Performance optimization
+
+### 🤖 AI / Machine Learning
+
+I'm building a collection of projects while progressing through my AI/ML learning path, focusing on understanding the fundamentals rather than only using high-level libraries.
+
+### 🧩 DSA
+
+Regular practice covering:
+
+* Arrays & Strings
+* Hashing
+* Binary Search
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+* Bit Manipulation
+* Advanced problem-solving techniques
+
+---
+
+## 📈 GitHub Activity
+
+I use GitHub to document what I'm learning, experiment with new technologies, and gradually build a portfolio of **real engineering projects**.
+
+> **Build → Measure → Learn → Improve**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+
+* React Native
+* Mobile engineering
+* Native Android
+* AI/ML
+* Software architecture
+* Open source
+* Computer Science
+* Developer tooling
+
+If you're working on something interesting in these areas, feel free to connect.
+
+---
 ---
 
 ## 📊 Competitive Programming  
-- **LeetCode:** 600+ problems solved, 7 achievement badges  [Profile](https://leetcode.com/u/uk2459644/)
-- **CodeChef:** 2★ (Python) [Profile](https://www.codechef.com/users/uk2459644)  
+- **LeetCode:** 700+ problems solved, 11 achievement badges, 1636 Recent contest rating  [Profile](https://leetcode.com/u/uk2459644/)
 
 ## 🌐 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/upendra-frontend-react-js-django-python-backend-developer/)  
+- [LinkedIn](www.linkedin.com/in/upendra-react-native-android-developer/)  
 - [Naukri](#)  
 - 📧 Email: uk2459644@gmail.com  
 - 📞 Phone: (+91) 8789221957  
 
 ---
+
+⭐ Thanks for visiting my profile!
