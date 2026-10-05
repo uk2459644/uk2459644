@@ -77,6 +77,90 @@ Some areas I've worked on:
 
 ---
 
+## 📱 Published Mobile Applications
+
+Here are some of the production mobile applications I have contributed to as a **React Native Developer**, covering healthcare, home services, and on-demand service platforms.
+
+### 🏥 Pathoconnect Phlebo
+
+**Healthcare & Diagnostic Field Operations**
+
+A field-operations application for phlebotomists to manage assigned orders, patient/sample collection workflows, barcode scanning, location tracking, and related field activities.
+
+**Key areas:** React Native · JavaScript · Redux · TanStack Query · Kotlin · Native Android · Firebase · AWS · Background Location · Barcode Scanning
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Pathoconnect%20Phlebo-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.observancegroup.phlebotomist)
+
+---
+
+### 🐾 Global Pet
+
+**Pet Care Services Platform**
+
+A pet-care service platform that allows pet parents to discover and book services such as grooming, training, walking, boarding, and other pet-care services.
+
+**Key areas:** React Native · Service Booking · User & Pet Profiles · Notifications · Payments · Appointment Management
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Global%20Pet-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.globalpetgrooming.app)
+
+---
+
+### 🔧 FitForFix
+
+**Home Appliance Service Platform**
+
+A service-booking application for AC, geyser, and refrigerator installation, repair, and maintenance services.
+
+**Key areas:** React Native · Service Booking · Location Services · Service History · Technician Management · Customer Support
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-FitForFix-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.FitForFix.app)
+
+---
+
+### 🛠️ Connect Xpert
+
+**Home Appliance Service & Repair**
+
+An on-demand home appliance service platform connecting customers with verified technicians for AC, refrigerator, washing machine, chimney, RO, geyser, and solar-system services.
+
+**Key areas:** React Native · Service Booking · Real-time Tracking · Technician Management · Pricing · Service Warranty
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Connect%20Xpert-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.connectxpert.app)
+
+---
+
+### ❄️ AC Wala 24x7
+
+**On-Demand AC Services**
+
+An AC service platform providing installation, uninstallation, maintenance, gas refilling, leakage detection, emergency repairs, and AMC services.
+
+**Key areas:** React Native · Service Booking · Location Tracking · Payments · Notifications · Service Management
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-AC%20Wala%2024x7-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.acwala.app)
+
+---
+
+### 🚀 Mobile Development Experience
+
+Across these applications, my experience includes:
+
+* 📱 **React Native** application development
+* ⚡ **JavaScript** and modern React architecture
+* 🔄 **Redux / TanStack Query** for state and server-state management
+* 🤖 **Kotlin & Native Android** development
+* 📍 **Background location & GPS tracking**
+* 🔔 **Firebase FCM & real-time updates**
+* ☁️ **AWS integrations**
+* 📷 **Camera & image/document workflows**
+* 📊 **REST API integration**
+* 🔐 **Authentication & secure data handling**
+* 🚀 **Performance optimization & production debugging**
+* 📦 **Android builds, releases & Google Play deployment**
+
+> **Note:** These applications are published products that I have contributed to professionally. Source code is private due to company/client ownership and confidentiality.
+
+
 ## 📊 Engineering Highlights
 
 A few examples from my current production work:
